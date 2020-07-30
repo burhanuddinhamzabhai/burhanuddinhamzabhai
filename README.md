@@ -1,4 +1,4 @@
-### Hi there, I'm Burhanuddin Hamzabhai[website] 👋
+### Hi there, I'm Burhanuddin [Hamzabhai][website] 👋
 
 ## I'm a Designer, Developer, Instructor and Writer.
 Founder and CEO Dot53[dot53].
@@ -60,14 +60,16 @@ Founder and CEO Dot53[dot53].
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="burhanuddinhamzabhai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burhanuddinhamzabhai&show_icons=true&hide_border=true" />
 
 [website]: http://burhanuddinhamzabhai.dev
 <!--[twitter]: https://twitter.com/burhanuddinhamzabhai-->
 [youtube]: https://www.youtube.com/channel/UChpz_szPBGTEARHOr0m2hlg
 [instagram]: https://instagram.com/burhanuddinhamzabhai
 [linkedin]: https://linkedin.com/in/burhanuddinhamzabhai
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[dot53]: http://dot53.in
+[programmingMasters]: http://programmingmasters.in
+[smoothExperience]: http://smoothexperience.in
+[dummyswitch]: http://thedummyswitch.in
+[dot53store]: http://dot53store.com
+[startups]: http://dot53.in/startups.html
