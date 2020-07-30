@@ -39,7 +39,8 @@ Founder and CEO
 
 
 <img align="left" alt="burhanuddinhamzabhai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burhanuddinhamzabhai&hide=stars,prs,issues,contribs&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddinhamzabhai)](https://github.com/burhanuddinhamzabhai/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: http://burhanuddinhamzabhai.dev
