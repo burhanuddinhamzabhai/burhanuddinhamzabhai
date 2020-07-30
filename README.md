@@ -8,7 +8,7 @@ Founder and CEO
 - [Dot53 Store][dot53store]-Your own Digital Store.
 - [The Dummy Switch][dummyswitch]-Modernize way of Learning, Podcast.
 
-### Startups
+### [Startups][startups]
 - Dot53 Protect
 - FlashLight
 - CloudMyStyle
