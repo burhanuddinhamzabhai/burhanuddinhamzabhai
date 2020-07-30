@@ -60,7 +60,8 @@ Founder and CEO Dot53[dot53].
 
 ---
 
-<img align="left" alt="burhanuddinhamzabhai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burhanuddinhamzabhai&show_icons=true&hide_border=true" />
+<img align="left" alt="burhanuddinhamzabhai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burhanuddinhamzabhai&hide=stars,prs,issues,contribs&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddinhamzabhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://burhanuddinhamzabhai.dev
 <!--[twitter]: https://twitter.com/burhanuddinhamzabhai-->
