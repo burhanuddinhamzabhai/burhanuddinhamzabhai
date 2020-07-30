@@ -8,6 +8,13 @@ Founder and CEO
 - [Dot53 Store][dot53store]-Your own Digital Store.
 - [The Dummy Switch][dummyswitch]-Modernize way of Learning, Podcast.
 
+### Startups
+- Dot53 Protect
+- FlashLight
+- CloudMyStyle
+- WorkSpace Collab
+- Speak-N-Talk
+
 ### Connect with me:
 
 [<img align="left" alt="burhanuddinhamzabhai.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -25,7 +32,7 @@ Founder and CEO
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/wordpress.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/android/android.png" />
@@ -42,7 +49,7 @@ Founder and CEO
 <br />
 <img align="left" alt="burhanuddinhamzabhai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burhanuddinhamzabhai&hide=stars,prs,issues,contribs&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddinhamzabhai)](https://github.com/burhanuddinhamzabhai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddinhamzabhai&layout=compact)](https://github.com/burhanuddinhamzabhai/github-readme-stats)
 
 
 [website]: http://burhanuddinhamzabhai.dev
