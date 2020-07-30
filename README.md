@@ -1,12 +1,12 @@
-### Hi there, I'm Burhanuddin [Hamzabhai][website] 👋
+### Hi there, I'm [Burhanuddin Hamzabhai][website] 👋
 
 ## I'm a Designer, Developer, Instructor and Writer.
-Founder and CEO Dot53[dot53].
-- Dot53[dot53]-Explore the World Inside the Dot, A Software Company.
-- Programming Masters[programmingMasters]-Place where Learning gets Simplified, E-Learning Platform.
-- Smooth Experience[smoothExperience]-We Turn Design into Experience, A Design Company.
-- Dot53 Store[dot53store]-Your own Digital Store.
-- The Dummy Switch[dummyswitch]-Modernize way of Learning, Podcast.
+Founder and CEO 
+- [Dot53][dot53]-Explore the World Inside the Dot, A Software Company.
+- [Programming Masters][programmingMasters]-Place where Learning gets Simplified, E-Learning Platform.
+- [Smooth Experience][smoothExperience]-We Turn Design into Experience, A Design Company.
+- [Dot53 Store][dot53store]-Your own Digital Store.
+- [The Dummy Switch][dummyswitch]-Modernize way of Learning, Podcast.
 
 ### Connect with me:
 
@@ -39,7 +39,7 @@ Founder and CEO Dot53[dot53].
 
 
 <img align="left" alt="burhanuddinhamzabhai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burhanuddinhamzabhai&hide=stars,prs,issues,contribs&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddinhamzabhai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddinhamzabhai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: http://burhanuddinhamzabhai.dev
