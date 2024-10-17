@@ -15,7 +15,7 @@ At [burhanuddinhamzabhai.dev](https://burhanuddinhamzabhai.dev), I focus on:
 
 ## 📘 My Book: *Distributed Systems: Design, Implementation, and Best Practices*
 
-My book is available on [Amazon](https://www.amazon.com). It provides an in-depth exploration of distributed systems, offering practical insights for both beginners and experienced developers. Whether you're building large-scale systems or improving existing infrastructure, this book is for you.
+My book is available on [Amazon](https://www.amazon.com/dp/B0DJL4YPQ9?ref=cm_sw_r_cp_ud_dp_C49FDDXCB3DEQEEJZ3T7&ref_=cm_sw_r_cp_ud_dp_C49FDDXCB3DEQEEJZ3T7&social_share=cm_sw_r_cp_ud_dp_C49FDDXCB3DEQEEJZ3T7&skipTwisterOG=1). It provides an in-depth exploration of distributed systems, offering practical insights for both beginners and experienced developers. Whether you're building large-scale systems or improving existing infrastructure, this book is for you.
 
 ## 🎙️ Podcast Host: *Code Symphony*
 
