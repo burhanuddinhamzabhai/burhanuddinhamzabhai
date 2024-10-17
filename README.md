@@ -39,8 +39,7 @@ I host *Code Symphony*, where I break down complex web development topics into a
 ## 📫 Let's Connect
 
 - **Website**: [burhanuddinhamzabhai.dev](https://burhanuddinhamzabhai.dev)
-- **Twitter**: [@BurhanHamzabhai](https://twitter.com/BurhanHamzabhai)
-- **LinkedIn**: [in/burhanuddinhamzabhai](https://www.linkedin.com/in/burhanuddinhamzabhai)
+- **LinkedIn**: [in/burhanuddinhamzabhai](https://www.linkedin.com/in/burhanuddin-hamzabhai)
 
 ---
 
